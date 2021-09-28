@@ -1,4 +1,4 @@
-Hi, I’m Ajay. A big-time Data enthusiast. A timeline of my journey to the world of Analytics.
+Hi, I’m Ajay. A big-time Data enthusiast. Below is the timeline of my journey to the world of Analytics.
 
 - 2016 - Completed Bachelors and started my first job as reported to a data analyst. Amazed by V lookup in excel, started learning Excel and SQL to prepare data and insights.
 - 2018 - Promoted to Data Analyst position two years later. Led a team of 3 members and started to automate Dashboard and key trends via Power BI and Tableau dashboard.
