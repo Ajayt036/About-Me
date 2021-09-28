@@ -5,4 +5,4 @@ Hi, I’m Ajay. A big-time Data enthusiast. Below is the timeline of my journey 
 - 2020 - Started studying Statistics and devloping Statistical models in R.
 - 2021 - Promoted to Senior Data Analyst, became part of COO team, and started to build statistical models to meet the business targets numbers.
 
-- Currently - Took a break from the professional world, and started my Masters of Science in Business Analytics at California state university Eastbay. New to Github and hopeful to build some projects and contribute into Data science community in a real tangible way.
+- Currently - Took a break from the professional world, and started my Masters of Science in Business Analytics at California state university Eastbay. New to Github and hopeful to build few projects and contribute into Data science community in a real tangible way.
