@@ -1,7 +1,8 @@
-Hi, I’m Ajay. A big time Data science enthusiast.
+Hi, I’m Ajay. A big time Data enthusiast. A timeline of my journy to the world of Analytics.
 
-My beautiful journey into the world of Analytics started in 2016 when I started my first job after undergraduation. Shocked by V lookup in excel, I was left pondering how a simple formula can bring all required respective numbers in a column.I t was pure magic of programming and functions. It's been Five years and there is no turning back. From writing R and Python codes to applying statistical concepts, each day has been a stepping stomne toward deep learning.
-- I have Five years of working experience, where I get to work with experts from the Finance and operation industry. I understood supply chain, and operational flow of deliveries. Most importantly, I learnt how important it has become for each industry to utilise historical data for better business conduct.
-- This Fall, I joined California state university to pursue my Masters OF Science in Business Analytics at California state university. I think as I am 100% sure of advancing my career deep into data science, I feel this is the best time for me to go to college and understand business and data thoroughly.
+- 2016 - Completed Bachelors and started my first job as reportee to a data analyst. Amazed by V lookup in excel, started learning Excel and SQL to prepare data and insights.
+- 2018 - Promoted to Data Analyst position two years later. Led the team of 3 memebers and started to automated Dahboard and insights via Power BI and Tableau dashboard.
+- 2020 - Started learning Statistical concepts and deplOying liean regessiona model into workforce data to reduce demand to supply gap in People supply chain. 
+- 2021 - Promoted to Senior Data Analyst, became part of COO team and started to build statistical models to meet the business targets numbers set by COO.
 
-I would welcome anyone looking to collaborate or just to have a normal conversation. One can contact me on Linkedin. https://www.linkedin.com/in/ajay-analyst/
+- Currently - Took a break from professional world, and started Mastes of Science in Business Analytics st California state unoivrsity Eastbay. 
