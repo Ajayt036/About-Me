@@ -6,4 +6,4 @@ In 30 seconds, Below is the timeline of my journey into the world of Data Scienc
 - 2020 - Started studying Statistics and devloping Statistical models in R.
 - 2021 - Promoted to Business and Data Analyst, became part of COO team, and started to build statistical models to meet the business targets numbers.
 
-- Currently - Took a break from the professional world, and started my Masters of Science in Business Analytics at California state university Eastbay. New to Github and hopeful to build few projects and contribute into Data science community in a real tangible way.
+- Currently - Started my Masters of Science in Business Analytics at California state university Eastbay. New to Github and hopeful to build few projects and contribute into Data science community in a real tangible way.
