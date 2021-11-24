@@ -1,5 +1,5 @@
 Hi, I’m Ajay. A big-time Data enthusiast.  
-In 30 seconds, Below is the timeline of my journey into the world of Data Science.
+In 30 seconds, Below is the timeline of my journey into the world of Business intelligence.
 
 - 2016 - Completed Bachelors and started my first job as reportee to a data analyst at Wipro Limited. Amazed by simple V lookup function in excel, started learning Excel and SQL to prepare data and insights.
 - 2018 - Promoted to Reporting Analyst position. Joined VP team and started to automate dashboards, reports and key trends via Power BI and Tableau Visulization tools.
