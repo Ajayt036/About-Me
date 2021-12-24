@@ -7,6 +7,6 @@
 
 - **2021** - Enrolled in Masters of Science in Business Analytics Program at Cal state university Eastbay, USA. I am new to Github and hopeful to build projects and contribute into Data science community in a real tangible way.
 
-#### SKILLS:
+### SKILLS:
 
 <img width="432" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303409-f36a86dc-2b26-41d8-8ee2-93ea3193059b.png">
