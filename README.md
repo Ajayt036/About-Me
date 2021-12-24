@@ -10,3 +10,6 @@ Hi, I’m Ajay. In 20 seconds, Below is the timeline of my journey into the worl
 
 <img width="498" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303317-0536edbf-c14a-4008-8fed-d8053c0602c5.png">
 
+<img width="564" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303394-4bb62a4c-e68f-4cf4-bb56-abc0fe7548da.png">
+
+<img width="432" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303409-f36a86dc-2b26-41d8-8ee2-93ea3193059b.png">
