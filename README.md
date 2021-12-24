@@ -8,4 +8,4 @@ Hi, I’m Ajay. In 20 seconds, Below is the timeline of my journey into the worl
 
 #### SKILLS:
 
-<img width="440" alt="Screen Shot 2021-12-23 at 4 39 20 PM" src="https://user-images.githubusercontent.com/64645859/147302342-65ee79f3-f2b6-43be-a3bc-2b0f983b8b4b.png">
+![image](https://user-images.githubusercontent.com/64645859/147303007-10bb1e4e-a4ce-457c-b4b6-52f1484c94c3.png)
