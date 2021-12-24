@@ -6,13 +6,6 @@ Hi, I’m Ajay. In 20 seconds, Below is the timeline of my journey into the worl
 
 - 2021 - Started my Masters of Science in Business Analytics at Cal state university Eastbay. New to Github and hopeful to build few projects and contribute into Data science community in a real tangible way
 
+![R](https://user-images.githubusercontent.com/64645859/147302150-f896c10e-4648-4058-8780-98298f4de160.jpeg)
 
-![py](https://user-images.githubusercontent.com/64645859/147301636-bdf7cba1-2055-48bf-8966-25f922ca8c73.jpeg)
-
-![ex](https://user-images.githubusercontent.com/64645859/147301754-cc2872f1-64e6-428c-8dfe-148c74d5569c.png)
-
-![download](https://user-images.githubusercontent.com/64645859/147302047-7c4336d5-97a5-4bf7-9f27-aa02821b76d5.jpeg)
-
-![download](https://user-images.githubusercontent.com/64645859/147302073-adc5fcda-f001-41ee-8463-5af300d63c73.jpeg)
-
-![download](https://user-images.githubusercontent.com/64645859/147302092-4e1045af-54d1-4a99-92d3-a322a0f011fa.jpeg)
+![google-analytics-seo](https://user-images.githubusercontent.com/64645859/147302156-d926c012-9aa9-40cd-93df-5ffc19220c16.jpeg)
