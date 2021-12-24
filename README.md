@@ -1,4 +1,4 @@
-#### Hi there! I’m Ajay. 
+#### Hi there!   I’m Ajay. 
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 
 - **2016** - Completed Bachelors and started my first job as reportee to a data analyst at Wipro Limited. Amazed by simple V lookup function in excel, started learning Excel and SQL to prepare data and insights.
