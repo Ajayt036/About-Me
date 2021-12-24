@@ -5,7 +5,7 @@
 - **2018** - Promoted to Data Analyst position. Started to prepare and release daily dashboards, business reports and key trends via Power BI and Tableau Visulization tools.
 - **2020** - Promoted to Senior Data Analyst, became part of COO team, and started to build statistical models to meet the business targets numbers.
 
-- **2021** - Enrolled in 2 Years Masters of Science in Business Analytics Program at California State University East-bay, USA. I am new to Github and hopeful to build projects and contribute into Data science community in a real tangible way.
+- **2021** - Enrolled in Masters of Science in Business Analytics Program at California State University East-bay, USA. I am new to Github and hopeful to build projects and contribute into Data science community in a real tangible way.
 
 ### SKILLS:
 
