@@ -8,3 +8,5 @@ Hi, I’m Ajay. In 20 seconds, Below is the timeline of my journey into the worl
 
 
 ![py](https://user-images.githubusercontent.com/64645859/147301636-bdf7cba1-2055-48bf-8966-25f922ca8c73.jpeg)
+
+![ex](https://user-images.githubusercontent.com/64645859/147301754-cc2872f1-64e6-428c-8dfe-148c74d5569c.png)
