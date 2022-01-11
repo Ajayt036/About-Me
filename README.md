@@ -1,4 +1,4 @@
-### Hi there! My name is Ajay and I am an aspiring Data Scientist.
+### My name is Ajay and I am an aspiring Data Scientist.
 
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 
