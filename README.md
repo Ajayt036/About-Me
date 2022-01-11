@@ -3,7 +3,7 @@
 
 - **2016** - Completed Bachelors and started my first job as reportee to a data analyst at Wipro Limited. Assisted him in creating and managing databases.
 - **2018** - Promoted to Data Analyst position. Started to prepare and release daily dashboards, business reports and key trends via Power BI and Tableau Visulization tools.
-- **2020** - Promoted to Senior Data Analyst, became part of COO team, and started to prepare analytical studies, business insights and statistical models in Python to meet the business targets numbers.
+- **2020** - Promoted to Senior Data Analyst, became part of COO team, and started to prepare analytical studies, business insights and statistical models in Python to meet the business requirments.
 
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA. I am new to Github and hopeful to build projects and contribute into Data science community in the real tangible way.
 
