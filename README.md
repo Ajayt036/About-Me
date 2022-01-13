@@ -7,7 +7,7 @@
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
 
 ### AIM:  
-My Aim for the next two years is to further skill up myself with advance Data Science and business domain Expertise. My area of interest is to apply advanced statistical models and machine learning to the day by day growing industrial & informatuonal data for the enhancement of business through analytical studies and science.
+My Aim for the next two years is to dive deeper in advance Data Science and business domain Expertise. My area of interest is to apply advanced statistical models and machine learning to the day by day growing industrial & informatuonal data for the enhancement of business through analytical studies and science.
 ### SKILLS:
 
 <img width="432" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303409-f36a86dc-2b26-41d8-8ee2-93ea3193059b.png">
