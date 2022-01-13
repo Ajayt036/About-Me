@@ -5,6 +5,7 @@
 - **2018** - Promoted to a Data Analyst position. Started to prepare and release daily dashboards, business reports, and key trends via Power BI and Tableau Visualization tools.
 - **2020** - Promoted to Senior Data Analyst, became part of COO team, and started to prepare analytical studies, and statistical models to meet the business requirements.
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
+
 - **AIM**  - My Aim for the next two years is to skill up myself with Data Science and business domain knowledge. My area of interest is to apply advanced statistical models and machine learning skills to the day by day growing industrial & informatuonal data for the enhancement of business through analysis and science.
 ### SKILLS:
 
