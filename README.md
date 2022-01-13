@@ -1,5 +1,5 @@
 ### Hey there! I am Ajay, an aspiring Data scientist.
-#### In 10 seconds, Below is the timeline of my journey into the world of Data Intelligence.
+#### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 
 - **2016** - Completed bachelor's and started my first job as an intern to a data analyst at Wipro Limited. Assisted him in creating and managing databases.
 - **2018** - Promoted to a Data Analyst position. Started to prepare and release daily dashboards, business reports, and key trends via Power BI and Tableau Visualization tools.
