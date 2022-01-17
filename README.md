@@ -8,9 +8,8 @@
 
 ### AIM - 2022:  
 - Read Wall street journal everyday: Business ,Economics and Technical section.
-- Prepare atleat one analytical case study per month using python, and Tableau or Power BI.
 - learn building efficient statistical model for busness solutions.
-- learn advance Machine Learning concepts.
+- Practice advance Machine Learning concepts.
 
 ### SKILLS:
 
