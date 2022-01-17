@@ -1,4 +1,4 @@
-### Hey there! I am Ajay, an aspiring Data scientist.
+### Hey there! I am Ajay, an aspiring Data Scientist.
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 
 - **2016** - Completed bachelor's and started my first job as a Reporting Analyst at Wipro Limited. The role was to provide business insights by analyzing metrics and designing reports.
