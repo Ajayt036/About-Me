@@ -7,8 +7,8 @@
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
 
 ### AIM - 2022:  
-- Read Wall street journal everyday: Business ,Economics and Technical section.
-- learn building efficient statistical model for busness solutions.
+- Read Wall street journal everyday: Business, Economics and Technical section.
+- Build efficient statistical model for modern day busness problems.
 - Practice advance Machine Learning concepts.
 
 ### SKILLS:
