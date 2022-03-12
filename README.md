@@ -9,7 +9,7 @@
 ### AIM - 2022:  
 - Read Wall street journal everyday: Business, Economics and Technology section.
 - Build efficient statistical model for modern day busness problems.
-- Practice Machine Learning concepts.
+- Practice Machine Learning concepts. 
 
 ### SKILLS:
 
