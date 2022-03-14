@@ -1,7 +1,7 @@
 ### Hey there! I am Ajay, an aspiring Data Scientist.
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 
-- **2016** - Completed bachelor's and started my first job as a Reporting Analyst at Wipro Limited. The role was to provide business insights by analyzing metrics and designing reports.
+- **2016** - Completed bachelor's and started my first job as a Reporting Analyst at Wipro Limited. 
 - **2018** - Promoted to a Data Analyst. Started to prepare databases using SQL, and dashboards in Power BI or Tableau.
 - **2020** - Promoted to Senior Data Analyst, became part of COO team to prepare analytical studies and statistical models to meet the business requirements.
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA. 
