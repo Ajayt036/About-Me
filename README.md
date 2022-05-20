@@ -1,4 +1,4 @@
-## Hey there! I am Ajay, an aspiring Data Scientist.
+## Hello. I am Ajay, an aspiring Data Scientist.
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 - **2022** - Full-time summer internship at FedEx Ground as Workforce Analytics Intern.
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
