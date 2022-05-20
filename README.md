@@ -14,9 +14,6 @@
 
 ### SKILLS:
 
-> **Y**
-> Y
-
 <img width="432" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303409-f36a86dc-2b26-41d8-8ee2-93ea3193059b.png">
 
 
