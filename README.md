@@ -6,13 +6,16 @@
 - **2018** - Promoted to a Data Analyst. Started building statistical Models, Data Dashboards capturing KPIs in Power BI and Tableau.
 - **2016** - Started the first job as a Reporting Analyst. Role was to manage Database, Fetch data using SQL and Prepare reports in MS Excel and Tableau.
 
-> **GOAL - 2022:**  
+### GOAL - 2022:
 - Read Wall street journal every day: Business, Economics, and Technology section.
 - Build the predictive statistical model using advanced Data mining techniques in supervised and Non Supervised learning.
 - Build Projects on Optimization methods such as Non-Linear Optimization, Simulations, and Query optimizations.
 - Explore Deep Learning and NLP fields
 
 ### SKILLS:
+
+> **Y**
+> Y
 
 <img width="432" alt="Screen Shot 2021-12-23 at 4 59 12 PM" src="https://user-images.githubusercontent.com/64645859/147303409-f36a86dc-2b26-41d8-8ee2-93ea3193059b.png">
 
