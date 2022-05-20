@@ -1,15 +1,16 @@
 ### Hey there! I am Ajay, an aspiring Data Scientist.
 #### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
+- **2022** - Full-time summer internship at FedEx Ground as Workforce Analytics Intern.
+- **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
+- **2020** - Promoted to Senior Data Analyst. Optimized Wipro's People Supply chain process by making Non-Liner optimized Models and Data simulations.
+- **2018** - Promoted to a Data Analyst. Started building statistical Modeling, Data Dashboards capturing KPIs in Power BI and Tableau.
+- **2016** - Started the first job as a Reporting Analyst. Role was to manage Database, Fetch data using SQL and Prepare reports in MS Excel and Tableau.
 
-- **2016** - Completed bachelor's and started my first job as a Reporting Analyst at Wipro Limited. 
-- **2018** - Promoted to a Data Analyst. Started to prepare databases using SQL, and dashboards in Power BI and Tableau.
-- **2020** - Promoted to Senior Data Analyst, became part of COO team to prepare analytical studies and statistical models to meet the business requirements.
-- **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA. 
-
-### AIM - 2022:  
-- Read Wall street journal everyday: Business, Economics and Technology section.
-- Build efficient statistical model for modern day busness problems.
-- Practice Machine Learning concepts. 
+### GOAL - 2022:  
+- Read Wall street journal every day: Business, Economics, and Technology section.
+- Build the predictive statistical model using advanced Data mining techniques in supervised and Non Supervised learning.
+- Build Projects on Optimization methods such as Non-Linear Optimization, Simulations, and Query optimizations.
+- Explore Deep Learning and NLP fields
 
 ### SKILLS:
 
