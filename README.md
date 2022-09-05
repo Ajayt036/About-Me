@@ -1,5 +1,4 @@
-## Hello. I am Ajay, a Business Intelligence Enthusiast. 
-## Always up for discussion on solving problems through data & tech.
+## Hello. I am Ajay, a Business Intelligence Enthusiast. I love coffee, books and discussions on solving problems through data & tech.
 
 ### In 20 seconds, Below is my journey into the world of Data Intelligence.
 - **2022** - Full-time summer internship at FedEx Ground as Analytics Intern.
