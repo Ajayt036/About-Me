@@ -1,4 +1,4 @@
-## Hello. I am Ajay, a Business Intelligence Enthusiast.
+## Hello. I am Ajay, a Business Intelligence Enthusiast. I am always up for discussion on solving problems through data & tech.
 ### In 20 seconds, Below is the timeline of my journey into the world of Data Intelligence.
 - **2022** - Full-time summer internship at FedEx Ground as Analytics Intern.
 - **2021** - Enrolled in Masters of Science in Business Analytics Program(Full time) at California State University East-bay, USA.
