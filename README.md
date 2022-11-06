@@ -7,7 +7,7 @@
 - **2021** - Enrolled in Masters of Science in Business Analytics Program at California State University, USA.
 - **2020** - Promoted to Senior Analyst. Optimized Supply chain by making Non-Liner optimized Models and Data simulations.
 - **2018** - Promoted to a Data Analyst. Developed statistical Models and data Dashboards capturing KPIs in Power BI and Tableau.
-- **2016** - Started the first job as a Reporting Analyst. Role was to manage Database, Fetch data using SQL and Prepare reports in MS Excel and Tableau.
+- **2016** - Started my first job as a Reporting Analyst. Managed Databases, Wrote SQL Queries, and prepared polished presentations.
 
 ### GOAL - 2022:
 - Read Wall street journal every day: Business, Economics, and Technology section.
