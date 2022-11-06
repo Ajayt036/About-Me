@@ -1,4 +1,4 @@
-## Hello. I am Ajay, a Business Intelligence Enthusiast. 
+## Hey there! I am Ajay, a Business Intelligence Enthusiast. 
 
 ### In 20 seconds, Below is my journey into the world of Data Intelligence.
 - **2022** - Full-time summer internship at FedEx Ground as Business Intellgence Analyst.
