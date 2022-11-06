@@ -11,7 +11,6 @@
 - Read Wall street journal every day: Business, Economics, and Technology section.
 - Build the predictive statistical model using advanced Data mining techniques in supervised and Non Supervised learning.
 - Build Projects on Optimization methods such as Non-Linear Optimization, Simulations, and Query optimizations.
-- Explore Deep Learning and NLP fields
 
 ### SKILLS:
 
