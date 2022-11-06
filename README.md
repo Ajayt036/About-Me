@@ -6,7 +6,7 @@
 - **2022** - Full-time summer internship at FedEx Ground as Business Intelligence Analyst.
 - **2021** - Enrolled in the Masters of Science in Business Analytics Program at California State University, USA.
 - **2020** - Promoted to Senior Analyst. Optimized Supply chain by making Non-Liner optimized Models and Data simulations.
-- **2018** - Promoted to a Data Analyst. Developed statistical Models and data Dashboards capturing KPIs in Power BI and Tableau.
+- **2018** - Promoted to a Data Analyst. Developed statistical Models and data Dashboards in Power BI and Tableau capturing KPIs.
 - **2016** - Started my first job as a Reporting Analyst. Managed Databases, Wrote SQL Queries, and prepared polished presentations.
 
 ### GOAL - 2022:
