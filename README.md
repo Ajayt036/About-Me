@@ -1,11 +1,10 @@
-## Hey there! I am Ajay, a Business Intelligence Enthusiast. 
+## Hey there! I am Ajay, a Buisness and Data Intelligence Enthusiast. 
 
 ### In 20 seconds, Below is my journey into the world of Data Intelligence.
 
-- **Currently** - A graduate student looking for full-time analytics roles starting from May'23.
-- **2022** - Full-time summer internship at FedEx Ground as Business Intelligence Analyst.
-- **2021** - Enrolled in the Masters of Science in Business Analytics Program at California State University, USA.
-- **2020** - Promoted to Senior Analyst. Optimized Supply chain by making Non-Liner optimized Models and Data simulations.
+- **Currently** - Data Analyst - Life Science Analytics Centre of Excellence at Millipore Sigma, San Jose, USA
+- **2023** - Graduated in the Masters of Science in Business Analytics Program at California State University, USA.
+- **2021** - Promoted to Senior Data Analyst. Worked for 6 months and took break to start my Master's studies.
 - **2018** - Promoted to a Data Analyst. Developed statistical Models and data Dashboards in Power BI and Tableau capturing KPIs.
 - **2016** - Started my first job as a Reporting Analyst. Managed Databases, Wrote SQL Queries, and prepared polished presentations.
 
