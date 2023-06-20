@@ -2,7 +2,7 @@
 
 ### In 20 seconds, Below is my journey into the world of Data Intelligence.
 
-- **Currently** - Data Scientist at Life Science Analytics Centre of Excellence at Millipore Sigma, San Jose, USA
+- **Currently** - Data Scientist at Millipore Sigma, USA.
 - **2023** - Graduated in the Masters of Science in Business Analytics Program at California State University, USA.
 - **2021** - Promoted to Senior Data Analyst. Worked for 6 months and took a break to start my Master's studies.
 - **2018** - Promoted to a Data Analyst. Developed statistical Models and data Dashboards in Power BI and Tableau capturing KPIs.
