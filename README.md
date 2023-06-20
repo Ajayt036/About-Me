@@ -1,4 +1,4 @@
-## Hey there! I am Ajay, a business and Data Intelligence Enthusiast. 
+## Hey there! I am Ajay, a Business and Data Intelligence Enthusiast. 
 
 ### In 20 seconds, Below is my journey into the world of Data Intelligence.
 
